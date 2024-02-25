@@ -16,11 +16,11 @@ module.exports = {
         "largeImageKey": "", // Large Image
         "largeImageText": "", // the text when img surrounded (default is largeimage name in dev portal)
 
-        "smallImageKey": "", // Small Image
-        "smallImageText": "",
+        "smallImageKey": "graphci1", // Small Image
+        "smallImageText": "Last work",
         
         // Date.now() Epoch timestamps
-        "startTimestamp": "05:00", // time elapsed since this timestamp (increase ++)
+        "startTimestamp": "", // time elapsed since this timestamp (increase ++)
         "endTimestamp": "" // time left since this timestamp (decrease --)
     },
     "twitch": {
