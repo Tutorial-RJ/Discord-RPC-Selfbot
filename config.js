@@ -9,8 +9,8 @@ module.exports = {
     "game": {
         "applicationID": "1211316712369168414",
 
-        "name": "", // title
-        "details": "", // first row below title
+        "name": "FL Studio 21", // title
+        "details": "I am just producing man", // first row below title
         "state": "", // row below first row
 
         "largeImageKey": "", // Large Image
@@ -20,7 +20,7 @@ module.exports = {
         "smallImageText": "",
         
         // Date.now() Epoch timestamps
-        "startTimestamp": "", // time elapsed since this timestamp (increase ++)
+        "startTimestamp": "05:00", // time elapsed since this timestamp (increase ++)
         "endTimestamp": "" // time left since this timestamp (decrease --)
     },
     "twitch": {
