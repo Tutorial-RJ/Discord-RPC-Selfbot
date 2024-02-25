@@ -2,9 +2,9 @@
 
 module.exports = {
     // spotify/game/twitch
-    "mode": "", 
+    "mode": "/game", 
     // dnd/online/idle
-    "status": "",
+    "status": "/online",
 
     "game": {
         "applicationID": "1211316712369168414",
