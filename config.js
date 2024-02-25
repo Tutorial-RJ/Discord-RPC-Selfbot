@@ -24,7 +24,7 @@ module.exports = {
         "endTimestamp": "" // time left since this timestamp (decrease --)
     },
     "twitch": {
-        "applicationID": "",
+        "applicationID": "1211316712369168414",
         "url": "", // twitch channel link
 
         "details": "", // title
