@@ -20,7 +20,7 @@ module.exports = {
         "smallImageText": "Last work",
         
         // Date.now() Epoch timestamps
-        "startTimestamp": "", // time elapsed since this timestamp (increase ++)
+        "startTimestamp": "0.5", // time elapsed since this timestamp (increase ++)
         "endTimestamp": "" // time left since this timestamp (decrease --)
     },
     "twitch": {
